@@ -1,0 +1,5 @@
+fuzzywuzzy==0.18.0
+pandas==2.0.3
+pyshorteners==1.0.1
+selenium==4.11.2
+undetected_chromedriver==3.5.0
