@@ -1,4 +1,4 @@
-# Job Scrapper
+# Job Scraper
 
 This repo contains all the code developed to scrape jobs at well known websites such as [Indeed](https://www.indeed.com/) and [LinkedIn](https://linkedin.com/) using [Selenium](https://www.selenium.dev/). At the current stage, only the Indeed bot was implemented.
 
